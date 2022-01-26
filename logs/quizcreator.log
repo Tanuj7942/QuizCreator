@@ -1,0 +1,12 @@
+2022-01-25 23520:00:35.520 INFO [AWT-EventQueue-0] [com.mycompany.quizcreator.questiondatabase.QuestionDatabase.getTestSettings(QuestionDatabase.java:243)] - Connection Created
+2022-01-25 23582:00:35.582 INFO [AWT-EventQueue-0] [com.mycompany.quizcreator.questiondatabase.QuestionDatabase.getTestSettings(QuestionDatabase.java:258)] - Connection Disconnected
+2022-01-25 23645:00:35.645 INFO [AWT-EventQueue-0] [com.mycompany.quizcreator.questiondatabase.QuestionDatabase.getTestSettings(QuestionDatabase.java:243)] - Connection Created
+2022-01-25 23660:00:35.660 INFO [AWT-EventQueue-0] [com.mycompany.quizcreator.questiondatabase.QuestionDatabase.getTestSettings(QuestionDatabase.java:258)] - Connection Disconnected
+2022-01-25 23301:00:37.301 INFO [AWT-EventQueue-0] [com.mycompany.quizcreator.questiondatabase.QuestionDatabase.getTestSettings(QuestionDatabase.java:243)] - Connection Created
+2022-01-25 23301:00:37.301 INFO [AWT-EventQueue-0] [com.mycompany.quizcreator.questiondatabase.QuestionDatabase.getTestSettings(QuestionDatabase.java:258)] - Connection Disconnected
+2022-01-25 23316:00:37.316 INFO [AWT-EventQueue-0] [com.mycompany.quizcreator.questiondatabase.QuestionDatabase.getQuestions(QuestionDatabase.java:80)] - Connection Created
+2022-01-25 23316:00:37.316 INFO [AWT-EventQueue-0] [com.mycompany.quizcreator.questiondatabase.QuestionDatabase.getQuestions(QuestionDatabase.java:125)] - Connection Disconnected
+2022-01-25 23938:04:37.938 INFO [AWT-EventQueue-0] [com.mycompany.quizcreator.questiondatabase.QuestionDatabase.getQuestions(QuestionDatabase.java:80)] - Connection Created
+2022-01-25 23953:04:37.953 INFO [AWT-EventQueue-0] [com.mycompany.quizcreator.questiondatabase.QuestionDatabase.getQuestions(QuestionDatabase.java:125)] - Connection Disconnected
+2022-01-25 230:04:38.000 INFO [AWT-EventQueue-0] [com.mycompany.quizcreator.questiondatabase.QuestionDatabase.getTestSettings(QuestionDatabase.java:243)] - Connection Created
+2022-01-25 230:04:38.000 INFO [AWT-EventQueue-0] [com.mycompany.quizcreator.questiondatabase.QuestionDatabase.getTestSettings(QuestionDatabase.java:258)] - Connection Disconnected
