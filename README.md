@@ -8,3 +8,5 @@ Admin can set test settings for the users like no. of questions, marks, and mini
 It also has a log feature which creates a log for the steps that are going in the background while running.
 
 In future,  I will be doing some changes to this repository adding more features and updating the GUI of it for which I am studying further.
+
+Tools: - Apache Netbeans, Java 8, Maven, MySQL Database, Log4j, MySQL JDBC Connector
